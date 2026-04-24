@@ -160,8 +160,3 @@ The application was successfully deployed on AWS ECS (Fargate) and accessed via 
 
 This project demonstrates a complete end-to-end deployment of a containerized application using modern DevOps tools and AWS services.
 
----
-
-## 🙌 Author
-
-**Vaishnavi**
